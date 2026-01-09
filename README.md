@@ -10,7 +10,7 @@
 ## Installation
 
 ```bash
-npm install @ilker09091/react-scheduler-packages
+npm i @ilkerdeveloper/react-scheduler-packages
 ````
 
 If you plan to use recurring events in your scheduler, install `rrule` as well:
@@ -21,7 +21,7 @@ If you plan to use recurring events in your scheduler, install `rrule` as well:
 ## Usage
 
 ```tsx
-import { Scheduler } from "@ilker09091/react-scheduler-packages";
+import { Scheduler } from "@ilkerdeveloper/react-scheduler-packages";
 ```
 
 ### Example
