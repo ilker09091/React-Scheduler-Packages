@@ -1,6 +1,6 @@
 {
-  "name": "@ilkerkurbanov/my-awesome-package",
-  "version": "3.1.2",
+  "name": "@ilker09091/react-scheduler-packages",
+  "version": "0.1.0",
   "description": "React scheduler component based on Material-UI & date-fns",
   "files": [
     "*"
