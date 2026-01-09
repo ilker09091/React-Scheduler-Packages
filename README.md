@@ -1,6 +1,6 @@
 # React Scheduler Component
 
-[![npm package](https://img.shields.io/npm/v/@ilker09091/react-scheduler-packages.svg?label=npm+package&style=flat-square)](https://www.npmjs.com/package/@ilker09091/react-scheduler-packages)
+[![npm package](https://img.shields.io/npm/v/@ilkerdeveloper/react-scheduler-packages.svg?label=npm+package&style=flat-square)](https://www.npmjs.com/package/@ilkerdeveloper/react-scheduler-packages)
 
 > ⚠️ **Notice**: This component uses `@mui/material`, `@emotion/react`, and `date-fns`.  
 > If your project is not already using these libs, this component may not be suitable.
