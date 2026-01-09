@@ -8,7 +8,8 @@
 ## Installation
 
 ```jsx
-npm i @aldabil/react-scheduler
+npm install @ilker09091/react-scheduler-packages
+
 ```
 
 If you plan to use `recurring` events in your scheduler, install `rrule` [package](https://www.npmjs.com/package/rrule)
